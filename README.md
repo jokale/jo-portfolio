@@ -123,11 +123,11 @@ export const heroData = {
 
 ```javascript
 export const aboutData = {
-  img: 'profile.jpg', // put your profile image (recommended aspect radio: square)
+  // img: 'profile.jpg', // put your profile image (recommended aspect radio: square)
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://learn.co/alpha-convention-4182/resume', // if no resume, the button will not show up
 };
 ```
 
@@ -179,25 +179,25 @@ Just put an object with the corresponding values inside the networks `array` or 
 ```javascript
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '', // your twitter url
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '', // your codepen url
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'twitter',
+    //   url: '', // your twitter url
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '', // your codepen url
+    // },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '', // your linkedin url
+      url: 'https://www.linkedin.com/in/joanna-e-kalema-a5a5b4136', // your linkedin url
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '', // your github url
+      url: 'https://github.com/jokale', // your github url
     },
   ],
 };
