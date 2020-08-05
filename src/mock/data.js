@@ -44,7 +44,7 @@ export const projectsData = [
     info2:
       'Built with a React.js frontend framework and Back-end API built with Ruby on Rails. UI created with JavaScript, HTML, CSS, React Bootstrap.',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jokale/on-the-rag-frontend-final', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
