@@ -57,6 +57,19 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/jokale/sport-thread-frontend', // if no repo, the button will not show up
   },
+
+  {
+    id: nanoid(),
+    img: 'sports-photography-6.jpg',
+    title: 'Thee Inkers',
+    info:
+      'A mock UI for a tattoo parlour',
+    info2:
+      'Built with a React.js frontend framework and CSS',
+    url: '',
+    repo: 'https://github.com/jokale/mock-up', // if no repo, the button will not show up
+  },
+
 ];
 
 // CONTACT DATA
