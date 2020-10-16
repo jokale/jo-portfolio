@@ -60,16 +60,13 @@ export const projectsData = [
 
   {
     id: nanoid(),
-    img: 'sports-photography-6.jpg',
+    img: 'the inkers.png',
     title: 'Thee Inkers',
-    info:
-      'A mock UI for a tattoo parlour',
-    info2:
-      'Built with a React.js frontend framework and CSS',
+    info: 'A mock UI for a tattoo parlour',
+    info2: 'Built with a React.js frontend framework and CSS',
     url: '',
     repo: 'https://github.com/jokale/mock-up', // if no repo, the button will not show up
   },
-
 ];
 
 // CONTACT DATA
