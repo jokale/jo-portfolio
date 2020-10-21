@@ -67,6 +67,16 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/jokale/mock-up', // if no repo, the button will not show up
   },
+
+  {
+    id: nanoid(),
+    img: '100days.png',
+    title: '100 days of Code',
+    info: 'A blog which displays all the posts for the 100 days of code challenge',
+    info2: 'Using a Gastby starter to build different blog posts and use some CSS to create style',
+    url: 'https://jo100daysofcode.netlify.app/',
+    repo: 'https://github.com/jokale/jo-blog-two', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
