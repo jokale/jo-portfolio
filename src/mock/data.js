@@ -48,7 +48,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'sports-photography-6.jpg',
+    img: 'ST.png',
     title: 'The Sport Thread',
     info:
       'A place where users can create threads pertaining to different sports news and create comments',
