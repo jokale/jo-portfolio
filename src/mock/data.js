@@ -77,6 +77,15 @@ export const projectsData = [
     url: 'https://jo100daysofcode.netlify.app/',
     repo: 'https://github.com/jokale/jo-blog-two', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'Aa.png',
+    title: 'Annaoj Atleir',
+    info: 'A mock UI for an artist/gallery',
+    info2: 'Built with a React.js frontend framework and CSS, utlising flexbox',
+    url: 'https://annaojatleir.netlify.app/',
+    repo: 'https://github.com/jokale/artgallery', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
