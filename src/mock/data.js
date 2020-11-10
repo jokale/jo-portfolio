@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'a8acc83630561e13abeadbe29416c4de.jpg',
+    img: 'FO.png',
     title: 'Fitness Overload',
     info: 'Web application to create different workouts for everyone to see.',
     info2:
