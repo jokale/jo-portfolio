@@ -86,6 +86,15 @@ export const projectsData = [
     url: 'https://annaojatleir.netlify.app/',
     repo: 'https://github.com/jokale/artgallery', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'RN.png',
+    title: 'To do Application',
+    info: 'A to do application mobile application',
+    info2: 'Built with a React.native, inlind CSS and  utlising flexbox, not currently live',
+    url: 'https://github.com/jokale/TodoAppRN',
+    repo: 'https://github.com/jokale/TodoAppRN', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
