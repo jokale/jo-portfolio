@@ -95,6 +95,16 @@ export const projectsData = [
     url: 'https://github.com/jokale/TodoAppRN',
     repo: 'https://github.com/jokale/TodoAppRN', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'prototypeAA.png',
+    title: 'Prototype of Annaoj Atleir mobile application',
+    info: 'Prototype of a mock UI for an artist/gallery',
+    info2:
+      'Built using figma to create an idea of how website could look on mobile, to potentially be built with React.native in the future',
+    url: 'https://drive.google.com/file/d/1DmjSsnln7_-pl03ojVNlzlZiVKF_xPwM/view?usp=sharing',
+    repo: 'https://annaojatleir.netlify.app/', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
