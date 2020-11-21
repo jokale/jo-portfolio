@@ -39,15 +39,15 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    ' I am a graduate with a 2:1 in Economics and Politics and Flatiron School Software Engineering Graduate with experience in Ruby on Rails, Javascript, React, Redux, HTML and CSS.'}
+                    ' I am a graduate with a 2:1 in Economics and Politics and Flatiron School Software Engineering Graduate with experience in Ruby on Rails, Javascript, React, Redux, HTML, CSS, SASS and Figma.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Academic study at University and Flatiron School has enhanced my problem solving, teambuilding, time management and project management skills.'}
+                    'Study at University and Flatiron School has enhanced my problem solving, teambuilding, time management and project management skills.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
-                    'I am keen to use these skills in the software/web development industry.'}
+                    'I am keen to use these skills in the web development industry specifically frontend development.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">

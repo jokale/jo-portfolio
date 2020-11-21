@@ -36,47 +36,7 @@ export const projectsData = [
     url: 'https://thefitnessoverload.netlify.app/',
     repo: 'https://github.com/jokale/workout-js-frontend', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'image.jpg',
-    title: 'On the Rag',
-    info: 'An informative application about periods',
-    info2:
-      'Built with a React.js frontend framework and Back-end API built with Ruby on Rails. UI created with JavaScript, HTML, CSS, React Bootstrap.',
-    url: 'https://ontherag.netlify.app/',
-    repo: 'https://github.com/jokale/on-the-rag-frontend-final', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'ST.png',
-    title: 'The Sport Thread',
-    info:
-      'A place where users can create threads pertaining to different sports news and create comments',
-    info2:
-      'Built with a React.js frontend framework and Back-end API built with Ruby on Rails. Implemented Redux state management tool UI created with JavaScript, HTML, CSS, React Bootstrap.',
-    url: '',
-    repo: 'https://github.com/jokale/sport-thread-frontend', // if no repo, the button will not show up
-  },
 
-  {
-    id: nanoid(),
-    img: 'the inkers.png',
-    title: 'Thee Inkers',
-    info: 'A mock UI for a tattoo parlour',
-    info2: 'Built with a React.js frontend framework and CSS',
-    url: '',
-    repo: 'https://github.com/jokale/mock-up', // if no repo, the button will not show up
-  },
-
-  {
-    id: nanoid(),
-    img: '100days.png',
-    title: '100 days of Code',
-    info: 'A blog which displays all the posts for the 100 days of code challenge',
-    info2: 'Using a Gastby starter to build different blog posts and use some CSS to create style',
-    url: 'https://jo100daysofcode.netlify.app/',
-    repo: 'https://github.com/jokale/jo-blog-two', // if no repo, the button will not show up
-  },
   {
     id: nanoid(),
     img: 'Aa.png',
@@ -94,16 +54,6 @@ export const projectsData = [
     info2: 'Built with a React.native, inlind CSS and  utlising flexbox, not currently live',
     url: 'https://github.com/jokale/TodoAppRN',
     repo: 'https://github.com/jokale/TodoAppRN', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'prototypeAA.png',
-    title: 'Prototype of Annaoj Atleir mobile application',
-    info: 'Prototype of a mock UI for an artist/gallery',
-    info2:
-      'Built using figma to create an idea of how website could look on mobile, to potentially be built with React.native in the future',
-    url: 'https://drive.google.com/file/d/1DmjSsnln7_-pl03ojVNlzlZiVKF_xPwM/view?usp=sharing',
-    repo: 'https://annaojatleir.netlify.app/', // if no repo, the button will not show up
   },
 ];
 
